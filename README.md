@@ -1,6 +1,6 @@
 # login_screen
 
-A new Flutter project.
+A my second project with flutter, login screen
 
 ## Getting Started
 
